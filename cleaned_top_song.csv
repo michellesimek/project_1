@@ -1,4 +1,4 @@
-,Country,Continent,Rank,Title,Artists,First Artist,Album,Explicit,Duration
+,Country,Continent,Rank,Title,Artists,Artist_clean,Album,Explicit,Duration
 0,Global,Global,1,Rain On Me (with Ariana Grande),"Lady Gaga, Ariana Grande",Lady Gaga,Rain On Me (with Ariana Grande),0,3:02
 1,Global,Global,2,Blinding Lights,The Weeknd,The Weeknd,After Hours,0,3:20
 2,Global,Global,3,ROCKSTAR (feat. Roddy Ricch),"DaBaby, Roddy Ricch",DaBaby,BLAME IT ON BABY,1,3:01
