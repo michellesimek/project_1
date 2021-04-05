@@ -23,16 +23,16 @@ Process: Looked at individual top artists’ ranks in each continent in which th
 
 Related Plots and Findings:
 
-![GitHub Logo](/Images/top_artist_The Weeknd.png)
+![GitHub Logo](/Images/top_artist_The%20Weeknd.png)
 
 1. Findings: In this case, it appears the Weeknd is ranked higher globally (10) than in any continent. Would be worth looking into global ranking methodology
 
-![GitHub Logo](/Images/top_artist_Lady Gaga.png)
+![GitHub Logo](/Images/top_artist_Lady%20Gaga.png)
 
 2. Findings: Lady Gaga ranked well in Australia and Africa but ranked above 30 in South America. 
 
 
-![GitHub Logo](/Images/top_artist_Dua Lipa.png)
+![GitHub Logo](/Images/top_artist_Dua%20Lipa.png)
 
 3. Findings: Dua Lipa globally ranked in the top 20 but was in the 20 – 30 range across all continents except for Australia.
 
@@ -40,11 +40,11 @@ Related Plots and Findings:
 
 4. Findings: Powfu ranked well in Africa, Asia and Australia but ranked worst in North and South America. 
 
-![GitHub Logo](/Images/top_artist_Tones and I.png)
+![GitHub Logo](/Images/top_artist_Tones%20and%20I.png)
 
 5. Findings: Tones and I ranked well in Africa with a global ranking around 10 but averaged between 20 and 30 for the remainder continents.  
 
-![GitHub Logo](/Images/top_artist_SAINt JHN.png)
+![GitHub Logo](/Images/top_artist_SAINt%20JHN.png)
 
 6. Findings: SAINT JHN ranked better across continents compared to the previous 5 artists noted above but shoots to roughly 35 in South America. 
 
@@ -52,15 +52,15 @@ Related Plots and Findings:
 
 7. Findings: Drake ranked the worst in South America compared to all top 10 artists but, globally, he is one of the top performers. 
 
-![GitHub Logo](/Images/top_artist_Ariana Grande.png)
+![GitHub Logo](/Images/top_artist_Ariana%20Grande.png)
 
 8. Findings: Ariana Grande was one of the best ranked in North America.
 
-![GitHub Logo](/Images/top_artist_Doja Cat.png)
+![GitHub Logo](/Images/top_artist_Doja%20Cat.png)
 
 9. Doja Cat ranked worst both globally and across most continents compared to other artists.
 
-![GitHub Logo](/Images/top_artist_THE SCOTTS.png)
+![GitHub Logo](/Images/top_artist_THE%20SCOTTS.png)
 
 10. The Scotts ranked very well in Africa and, globally, is one of the best ranked artists. 
 
